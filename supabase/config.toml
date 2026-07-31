@@ -1,0 +1,33 @@
+﻿
+[functions.detect-category]
+verify_jwt = true
+
+[functions.generate-insights]
+verify_jwt = true
+
+[functions.check-budget-alerts]
+verify_jwt = true
+
+[functions.create-recurring-transactions]
+verify_jwt = true
+
+[functions.scan-receipt]
+verify_jwt = true
+
+[functions.predict-spending]
+verify_jwt = true
+
+[functions.parse-voice-transaction]
+verify_jwt = true
+
+[functions.chat-advisor]
+verify_jwt = true
+
+[functions.detect-bills]
+verify_jwt = true
+
+[functions.detect-anomalies]
+verify_jwt = true
+
+[functions.monthly-report]
+verify_jwt = true
